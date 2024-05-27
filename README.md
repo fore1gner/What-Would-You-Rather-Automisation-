@@ -14,8 +14,8 @@ This project generates a "Would You Rather" video using OpenAI, ElevenLabs, and 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/would-you-rather-video-generator.git
-    cd would-you-rather-video-generator
+    git clone https://github.com/fore1gner/would-you-rather-video-automisation.git
+    cd would-you-rather-video-automisation
     ```
 
 2. **Install the dependencies**:
@@ -66,8 +66,5 @@ Feel free to submit issues or pull requests to improve the project.
 
 ## License
 This project is licensed under the MIT License.
-
-go
-Copy code
 
 This `README.md` file provides an overview of the project, installation instructions, usage guidelin
