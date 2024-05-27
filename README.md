@@ -40,8 +40,9 @@ This project generates a "Would You Rather" video using OpenAI, ElevenLabs, and 
 
 To generate the "Would You Rather" video, run the script:
 
-``bash
+```bash
 node test.js
+```
 The script will:
 
 Generate five "Would You Rather" questions using the OpenAI API.
@@ -56,14 +57,14 @@ output/: Directory where the final video will be saved.
 Example
 After running the script, you should find the generated video in the output/ directory.
 
-Troubleshooting
+## Troubleshooting
 Error: Cannot find ffmpeg: Ensure ffmpeg is installed and correctly added to your system's PATH, or update the path in the script.
 API Errors: Ensure your API keys are correct and have sufficient quota for the requests.
 
-Contributing
+## Contributing
 Feel free to submit issues or pull requests to improve the project.
 
-License
+## License
 This project is licensed under the MIT License.
 
 go
