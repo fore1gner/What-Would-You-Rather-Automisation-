@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "main": "test.js",
+    "dependencies": {
+      "openai": "^4.0.0",
+      "axios": "^0.21.1",
+      "fluent-ffmpeg": "^2.1.2",
+      "jimp": "^0.16.1",
+      "uuid": "^8.3.2",
+      "dotenv": "^8.2.0"
+    }
+  }
+  
